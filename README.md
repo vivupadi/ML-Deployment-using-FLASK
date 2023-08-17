@@ -1,2 +1,2 @@
 # ML-Deployment-using-FLASK
-Deploy a ML model as a Web App using Flask
+Create a House Price prediction model and deploy it as a Web App using Flask
